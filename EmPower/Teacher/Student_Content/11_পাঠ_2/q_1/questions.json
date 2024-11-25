@@ -1,0 +1,18 @@
+{
+    "1": {
+        "question": "Who discovered electricity?",
+        "option_1": "Tala-Chabi",
+        "option_2": "Juta-Moja",
+        "option_3": "Bai-Khata",
+        "option_4": "Chair-Table",
+        "correct_answer": "Juta-Moja"
+    },
+    "2": {
+        "question": "What do you see in this picture?",
+        "option_1": "Chair-Table",
+        "option_2": "Khata-Kalam",
+        "option_3": "Tala-Chabi",
+        "option_4": "Juta-Moja",
+        "correct_answer": "Chair-Table"
+    }
+}
